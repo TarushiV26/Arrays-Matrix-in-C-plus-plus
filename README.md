@@ -162,4 +162,4 @@ In this experiment, we studied and implemented the concept of 2D arrays in C++, 
 
 - Perform various operations by accessing elements using row and column indices
 
-Thus, the experiment successfully demonstrated the practical use of 2D arrays for matrix operations in C++.# Arrays-Matrix-in-C-plus-plus
+Thus, the experiment successfully demonstrated the practical use of 2D arrays for matrix operations in C++.# Arrays-Matrix-in-C-plus-plus.
